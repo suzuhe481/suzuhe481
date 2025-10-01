@@ -4,6 +4,13 @@
 I'm a Fullstack Web Developer who loves coding and learning new technology. I have a Bachelor's degree in Computer Science and an AWS Certified Cloud Practitioner Certification. I've built multiple frontend and fullstack projects and love learning new technology and growing my skills.
 ## 🛠 My Tools
 
+### Frameworks
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <img src="https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge" />
+</div>
+
+
 ### Frontend
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
@@ -24,12 +31,13 @@ I'm a Fullstack Web Developer who loves coding and learning new technology. I ha
 <img src="https://img.shields.io/badge/MongoDB-%2300ED64?style=for-the-badge" />
 </div>
 
-### Hosting
+### Cloud Services
 
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <img src="https://img.shields.io/badge/Cloudflare-%23F38020?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AWS%20S3-%23FF9900?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Koyeb-%233C6FC8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge" />
 </div>
 
 ### Other
